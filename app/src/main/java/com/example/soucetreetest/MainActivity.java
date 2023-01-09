@@ -16,6 +16,4 @@ public class MainActivity extends AppCompatActivity {
 
     /* 두번째 브랜치 */
 
-    /* PULL 예제 */
-
 }
