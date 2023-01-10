@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
     /* Pull 예제를 위한 주석 추가*/
     /* PullPractice에서 가져올 부분*/
 
-    /* Fetch 예제를 위한 주석 추가 */
 
 }
